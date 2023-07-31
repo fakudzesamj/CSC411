@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>  
+    <ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>CSC101</StudentCourCode>
+        <StudentMark>46</StudentMark>
+     </ItStudent>
+<ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>CSC113</StudentCourCode>
+        <StudentMark>69</StudentMark>
+     </ItStudent>
+    <ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>CSC111</StudentCourCode>
+        <StudentMark>56</StudentMark>
+     </ItStudent>
+ <ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>ACS112</StudentCourCode>
+        <StudentMark>96</StudentMark>
+     </ItStudent>
+    <ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>GNS113</StudentCourCode>
+        <StudentMark>47</StudentMark>
+     </ItStudent>
+    <ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>ACF111</StudentCourCode>
+        <StudentMark>21</StudentMark>
+     </ItStudent>
+     <ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>MAT111</StudentCourCode>
+        <StudentMark>50</StudentMark>
+     </ItStudent>
+ <ItStudent>
+        <StudentId>202002525</StudentId>
+        <StudentName>Siphelele Mndzebele</StudentName>
+        <StudentProgramme>Bsc IT IDE</StudentProgramme>
+        <StudentCourCode>BUS111</StudentCourCode>
+        <StudentMark>75</StudentMark>
+ </ItStudent>
+
+</class>
